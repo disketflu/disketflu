@@ -22,5 +22,6 @@
 - Apprentissage du Python au lycée ainsi que du PhP et SQL.
 - Baccalauréat Géneral Spécialité Numérique et Sciences Informatiques (2020-21)
 - Formation en Cours de Développeur Informatique (BAC +2)
+- Alternant en développement 3D chez Harfang (création de jeux-vidéos, applications, interfaces, maintenance d'applications etc...)
 
 [![Disketflu's GitHub stats](https://github-readme-stats.vercel.app/api?username=disketflu&show_icons=true&theme=blue-green)](https://github.com/disketflu/github-readme-stats)

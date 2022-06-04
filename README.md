@@ -8,8 +8,9 @@
 
 👨‍🎓 Je prépare mon diplôme d'ingénieur en tant que Développeur Informatique (RNCP - Niveau 5)
 
-👨‍💻 Mes compétences:
 [![My Skills](https://skillicons.dev/icons?i=python,lua,js,java,cpp,solidity,mysql,bash,html,css,php,mongo,react)](https://skillicons.dev)
+
+👨‍💻 Mes compétences:
 - Langages maîtrisés : Python / Lua / JavaScript / Java Native / C++ / Solidity / SQL / Bash / HTML / CSS / PhP / MongoDB.
 - Frontend : ReactJS / Chakra UI / HTML / CSS / Three.js / Web3.js / Ethers
 - Backend : Python (Flask) / Javascript (Express) / SQL / PhP

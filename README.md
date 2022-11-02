@@ -15,6 +15,7 @@
 - Frontend : ReactJS / Chakra UI / HTML / CSS / Three.js / Web3.js / Ethers
 - Backend : Python (Flask) / Javascript (Express) / SQL / PhP
 - 3D : Maîtrise du moteur Harfang, connaissance globale de Unity, Unreal Engine et Blender et gestion des principes de shaders / pipeline de rendu.
+- Physique : Maîtrise du moteur Bullet, implémentation d'une [raycast car en réalité virtuelle](https://github.com/harfang3d/car-simulator/tree/main).
        
 
 📈 Mon parcours:

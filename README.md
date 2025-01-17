@@ -20,7 +20,7 @@
 ---
 
 ## 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,python,flask,nodejs,graphql,docker,postgres,mongo,figma,blender,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,python,flask,nodejs,graphql,docker,postgres,mongo,figma,blender,unity)](https://skillicons.dev)
 
 ---
 

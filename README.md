@@ -27,6 +27,11 @@
 ## 💼 Expériences marquantes
 
 ### **Freelance - Développement Fullstack**
+### **Co-fondateur - Devtek Solutions (2023 - 2025)**
+- Conception et développement d’applications web et mobiles sur mesure, alliant qualité et performance
+- Collaboration sur des projets variés : **CRM personnalisés**, **wallets blockchain**, automatisation de workflows
+- Mise en place de pipelines CI/CD et gestion d’infrastructures cloud
+
 **IBEx Wallet (2024)**  
 - Développement d’une application mobile sécurisée pour la gestion de portefeuilles blockchain avec **React Native** et **Expo**  
 - Intégration de l’authentification **Passkeys** pour une expérience utilisateur moderne et sécurisée  

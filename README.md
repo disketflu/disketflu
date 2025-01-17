@@ -9,7 +9,7 @@
 ## 🚀 Résumé professionnel
 - **Années d'expérience :** 4+ ans en développement informatique
 - **Spécialités actuelles :**
-  - Développement **front-end** et **back-end** avec **React, React Native, Next.js** et **TypeScript**
+  - Développement **front-end** et **back-end** avec **React, React Native, Next.js, Python** et **TypeScript**
   - Intégration de solutions **blockchain** : wallets ERC4337, authentification Passkeys, API sécurisées
   - Déploiement d’applications complètes avec pipelines **CI/CD**, serveurs VPS et intégrations cloud
 - **Compétences en 3D :**

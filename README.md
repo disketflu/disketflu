@@ -1,4 +1,4 @@
-# Disketflu - Développeur Fullstack | Freelance
+# Clément BEUDOT - Développeur Fullstack | Freelance
 
 🎯 **Développeur Fullstack freelance spécialisé dans React, React Native et Next.js**, avec une expertise dans les solutions blockchain et les architectures performantes. Passionné par la création de solutions web et mobiles sur mesure, j'ai également une solide expérience en développement 3D acquise dans mes débuts, que j’intègre toujours dans mes compétences.  
 

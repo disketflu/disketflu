@@ -27,7 +27,7 @@
 ## 💼 Expériences marquantes
 
 ### **Freelance - Développement Fullstack**
-### **Co-fondateur - Devtek Solutions (2023 - 2025)**
+**Co-fondateur - Devtek Solutions (2023 - 2025)**
 - Conception et développement d’applications web et mobiles sur mesure, alliant qualité et performance
 - Collaboration sur des projets variés : **CRM personnalisés**, **wallets blockchain**, automatisation de workflows
 - Mise en place de pipelines CI/CD et gestion d’infrastructures cloud
@@ -42,7 +42,7 @@
 - Automatisation de la génération de documents (Excel, CERFA) et mise en place d’un dépôt sécurisé  
 - Administration d’un **VPS personnalisé** pour garantir performance et stabilité  
 
-**Dums - Plateforme de paiement (2023 - 2024)**  
+**Dums - Plateforme de loterie en ligne (2023 - 2024)**  
 - Développement front-end avec **Next.js** et intégration de **EasyTransak** pour des paiements sécurisés  
 - Mise en place d’un back-end performant avec **GraphQL** et **Node.js**  
 - Gestion du projet de bout en bout (architecture, tests, déploiement)  

@@ -57,5 +57,5 @@
 ---
 
 ## 🔗 Liens utiles
-- 🌐 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/ton-profil)  
-- 🤝 **Collective.work :** [Mon profil avec 10+ missions vérifiées](https://www.collective.work/profil)  
+- 🌐 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/clement-beudot/)  
+- 🤝 **Collective.work :** [Mon profil avec 10+ missions vérifiées](https://www.collective.work/profile/clement-beudot-ipw)  
